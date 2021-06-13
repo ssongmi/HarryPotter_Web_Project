@@ -1,2 +1,26 @@
-해리포터를 테마로 제작한 웹페이지 입니다. <br>
-링크 : https://ssongmi.github.io/HarryPotter_Web_Project/
+<h2>Harry Potter 웹페이지 </h2>
+
+<p>영화 해리포터를 주제로 만든 소개 웹페이지</p>
+<br>
+
+<h3>:pushpin: 추진 일정</3>
+<hr>
+<p>2019.09.08 ~ 2019.09.21</p>
+<br>
+
+<h3>:pushpin: 개요</3>
+<hr>
+<p>영화 해리포터 이야기에 대한 이해도를 증가시켜줄 수 있는 웹페이지</p>
+<br>
+
+<h3>:pushpin: 기술 스택</3>
+<hr>
+<p>HTML / CSS / JavaScript / jQuery</p>
+<br>
+
+<h3>:pushpin: 개발 내용</3>
+<hr>
+<p>사용자 스크롤에 맞춰 내려오는 발자국 애니메이션</p>
+<p>목록이 랜덤한 자리에서 제자리로 돌아오는 애니메이션</p>
+<p>글자가 랜덤하게 나타나는 애니메이션</p>
+<br>
